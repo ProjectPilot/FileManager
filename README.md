@@ -24,14 +24,23 @@ Entities:
 -	File
 
   o	Name
+  
   o	Date created
+  
   o	Owner
+  
   o	Date modified
+  
 -	Folder
-o	Name
-o	Owner
-o	Date created
-o	Empty/not empty
+
+  o	Name
+
+  o	Owner
+
+  o	Date created
+
+  o	Empty/not empty
+
 Duty:
 Design an application from UI to DB that meets the requirements with having in mind that requirements may be added in future.
 
