@@ -22,10 +22,10 @@ Requirements:
 
 Entities:
 -	File
-o	Name
-o	Date created
-o	Owner
-o	Date modified
+  o	Name
+  o	Date created
+  o	Owner
+  o	Date modified
 -	Folder
 o	Name
 o	Owner
